@@ -1,4 +1,4 @@
-# Dvrrecordercontrol 
+# DvrRecorderControl 
 The **DvrRecorderControl** module for [Wowza Streaming Engine™ media server software](https://www.wowza.com/products/streaming-engine) controls which streams get recorded by Wowza nDVR recorder.
 
 ## Prerequisites
@@ -18,7 +18,7 @@ This module provides the following functionality:
 
 Wowza Media Systems™ provides developers with a platform to create streaming applications and solutions. See [Wowza Developer Tools](https://www.wowza.com/resources/developers) to learn more about our APIs and SDK.
 
-To use the compiled version of this module, see [How to control which streams get recorded by the nDVR Recorder](https://www.wowza.com/forums/content.php?477-How-to-control-which-streams-get-recorded-by-the-nDVR-Recorder).
+To use the compiled version of this module, see [How to control which streams get recorded by the nDVR Recorder (DvrRecorderControl)](https://www.wowza.com/forums/content.php?477-How-to-control-which-streams-get-recorded-by-the-nDVR-Recorder-%28ModuleDvrRecorderControl%29).
 
 ## Contact
 [Wowza Media Systems, LLC](https://www.wowza.com/contact)
