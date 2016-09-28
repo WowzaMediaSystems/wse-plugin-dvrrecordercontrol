@@ -7,9 +7,9 @@ Wowza Streaming Engine 4.0.0 or later is required.
 ## Usage
 This module provides the following functionality:
 
-* whitelist which streams that will be recorded.
-* Blacklist which streams that should not be recorded.
-* Use of wildcard for multiple streams.
+* Whitelist which streams will be recorded.
+* Blacklist which streams should not be recorded.
+* Use of wildcards for multiple streams.
 
 ## More resources
 [Wowza Streaming Engine Server-Side API Reference](https://www.wowza.com/resources/WowzaStreamingEngine_ServerSideAPI.pdf)
