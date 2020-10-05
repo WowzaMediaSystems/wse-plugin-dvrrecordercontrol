@@ -9,8 +9,8 @@ Wowza Streaming Engine 4.0.0 or later is required.
 ## Usage
 This module provides the following functionality:
 
-* Whitelist which streams will be recorded.
-* Blacklist which streams should not be recorded.
+* Allowlist which streams will be recorded.
+* Blocklist which streams should not be recorded.
 * Use of wildcards for multiple streams.
 
 ## More resources
@@ -26,4 +26,4 @@ To use the compiled version of this module, see [Control which streams get recor
 [Wowza Media Systems, LLC](https://www.wowza.com/contact)
 
 ## License
-This code is distributed under the [Wowza Public License](https://github.com/WowzaMediaSystems/wse-plugin-transcodercontrol/blob/master/LICENSE.txt).
+This code is distributed under the [Wowza Public License](/LICENSE.txt).
